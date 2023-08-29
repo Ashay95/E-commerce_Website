@@ -1,1 +1,2 @@
-# E-commerce_Website
+# TheQuickGiftStore
+Created frontend for my own online gift store
